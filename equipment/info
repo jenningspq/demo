@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "GLV",
+    "SubCategoryInfos": [
+      {
+        "SubTypeName": "Shear out",
+        "Manufacturers": [
+          "PTC",
+          "Baker Hughes"
+        ]
+      },
+      {
+        "SubTypeName": "Dummy",
+        "Manufacturers": [
+          "Baker Hughes",
+          "Schlumberger"
+        ]
+      },
+      {
+        "SubTypeName": "Venturi",
+        "Manufacturers": [
+          "Baker Hughes",
+          "PTC",
+          "Schlumberger"
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "ASV",
+    "SubCategoryInfos": [
+      {
+        "SubTypeName": "",
+        "Manufacturers": [
+          "PTC",
+          "Baker Hughes"
+        ]
+      }
+    ]
+  }
+]
